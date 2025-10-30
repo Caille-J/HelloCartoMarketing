@@ -1,1 +1,8 @@
 streamlit
+folium
+geopandas
+pandas
+shapely
+pyproj
+openpyxl
+streamlit-folium
